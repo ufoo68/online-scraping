@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cheerio-httpcli": "^0.7.4",
+    "crawler": "^1.2.1",
+    "csv-writer": "^1.6.0",
+    "scraperjs": "^1.2.0"
+  }
+}
